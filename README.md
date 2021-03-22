@@ -1,0 +1,1 @@
+In this project, I am using a simple Javascript to create once a button is pressed, it changes the background and shows what color that is.
